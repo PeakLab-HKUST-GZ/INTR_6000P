@@ -4,14 +4,10 @@
   lecturer: Changhao Chen
   title: >
     <strong>Introduction</strong>
-  slides: "https://pan.baidu.com/s/1YPmiiQmfBTulqHSMZ6zRKQ?pwd=rmbx"
-  annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
-  video: #"https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bab0b8be-a86f-4a46-9dae-a9d0012950cb"
-  notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
-  readings:
+  slides:
     #- Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
     #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
-  logistics:
+  note:
 
 - date: 9/2
   lecturer: Changhao Chen
