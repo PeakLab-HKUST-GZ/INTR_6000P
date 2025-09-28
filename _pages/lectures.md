@@ -1,6 +1,6 @@
 ---
 layout: schedule
-permalink: /lectures/
+permalink: /VNIV-fall-2025/lectures/
 title: Schedule
 ---
 
