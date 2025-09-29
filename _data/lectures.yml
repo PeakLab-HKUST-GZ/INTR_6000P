@@ -4,7 +4,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Introduction</strong>
-  slides: "https://pan.baidu.com/s/1YPmiiQmfBTulqHSMZ6zRKQ?pwd=rmbx"
+  slides: "https://github.com/PeakLab-HKUST-GZ/INTR_6000P/blob/main/assets/slides/Visual%20Navigation%201A.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bab0b8be-a86f-4a46-9dae-a9d0012950cb"
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -17,7 +17,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Visual Navigation System Overview</strong>
-  slides: "https://pan.baidu.com/s/1pMahQT13YbycRQhXyC3L4w?pwd=iz42"
+  slides: "https://github.com/PeakLab-HKUST-GZ/INTR_6000P/blob/main/assets/slides/Visual%20Navigation%201B.pdf"
   annotated: #"https://drive.google.com/open?id=1OLREY-CC8OIZfY_8G1lEdqzSMsNZXHTe"
   video: #"https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=388ec3f4-de78-4f5e-b5ca-a9d001296630"
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-02/"
@@ -32,7 +32,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>3D Motion Model</strong>
-  slides: "https://pan.baidu.com/s/1ZapL3SKBMpQM0yOx0NWOGA?pwd=dei8"
+  slides: "https://github.com/PeakLab-HKUST-GZ/INTR_6000P/blob/main/assets/slides/Visual%20Navigation%202A.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bab0b8be-a86f-4a46-9dae-a9d0012950cb"
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -45,7 +45,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Camera Model</strong>
-  slides: "https://pan.baidu.com/s/1FKDEdkh4Y0b9opozIaVN2Q?pwd=v85d"
+  slides: "https://github.com/PeakLab-HKUST-GZ/INTR_6000P/blob/main/assets/slides/Visual%20Navigation%202B.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -58,7 +58,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Feature Detection & Description</strong>
-  slides: "https://pan.baidu.com/s/1K1kjOGbOBiPK-CjTw89tcA?pwd=anrj"
+  slides: "https://github.com/PeakLab-HKUST-GZ/INTR_6000P/blob/main/assets/slides/Visual%20Navigation%203A.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -71,7 +71,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Lie Groups</strong>
-  slides: "https://pan.baidu.com/s/1h4q-b_Ow6nA7Ofr0js9COQ?pwd=adtm"
+  slides: "https://github.com/PeakLab-HKUST-GZ/INTR_6000P/blob/main/assets/slides/Visual%20Navigation%203B.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -86,7 +86,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Visual Pose Estimation</strong>
-  slides: "https://pan.baidu.com/s/1y_FobXDcTDv55AmO5MHo7g?pwd=i2ag"
+  slides: "https://github.com/PeakLab-HKUST-GZ/INTR_6000P/blob/main/assets/slides/Visual%20Navigation%204A.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -100,7 +100,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Feature-Based Visual Odometry</strong>
-  slides: "https://pan.baidu.com/s/1FjR2OTQL1zu3LiPTDmgk6g?pwd=ny6n"
+  slides: "https://github.com/PeakLab-HKUST-GZ/INTR_6000P/blob/main/assets/slides/Visual%20Navigation%204B.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
