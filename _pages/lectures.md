@@ -25,42 +25,19 @@ title: Schedule
     <th scope="row">{{ lecture.date }}</th>
     {% if lecture.title contains 'No class' or forloop.last %}
     {% assign skip_classes = skip_classes | plus: 1 %}
-    <td colspan="4" align="center">{{ lecture.title }}</td>
+    <td colspan="3" align="center">{{ lecture.title }}</td>
     {% else %}
     <td>
-        Lecture #{{ forloop.index | minus: current_module | minus: skip_classes }}
-        {% if lecture.lecturer %}({{ lecture.lecturer }}){% endif %}:
+        Lecture #{{ forloop.index | minus: current_module | minus: skip_classes }}: 
         <br />
         {{ lecture.title }}
-        <br />
-        [
-            {% if lecture.slides %}
-              <a href="{{ lecture.slides }}" target="_blank">slides</a>
-            {% else %}
-              slides
-            {% endif %}
-            {% if lecture.annotated %}
-              (<a href="{{ lecture.annotated }}" target="_blank">annotated</a>)
-            {% endif %}
-            {% if lecture.video %}
-            | <a href="{{ lecture.video }}" target="_blank">video</a>
-            {% else %}
-            | video
-            {% endif %}
-            {% if lecture.notes %}
-            | <a href="{{ lecture.notes }}" target="_blank">notes</a>
-            {% else %}
-            | notes
-            {% endif %}
-        ]
     </td>
     <td>
-        {% if lecture.readings %}
-        <ul>
-        {% for reading in lecture.readings %}
-            <li>{{ reading }}</li>
-        {% endfor %}
-        </ul>
+        {% if lecture.slides %}
+          <a href="{{ lecture.slides }}" target="_blank">slides</a>
+        {% endif %}
+        {% if lecture.annotated %}
+          (<a href="{{ lecture.annotated }}" target="_blank">annotated</a>)
         {% endif %}
     </td>
     <td>
@@ -72,7 +49,7 @@ title: Schedule
 {% assign current_module = current_module | plus: 1 %}
 {% assign module = item %}
 <tr class="info">
-    <td colspan="5" align="center"><strong>{{ module.title }}</strong></td>
+    <td colspan="4" align="center"><strong>{{ module.title }}</strong></td>
 </tr>
 {% endif %}
 {% endfor %}
