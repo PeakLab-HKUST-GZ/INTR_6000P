@@ -288,8 +288,8 @@ Proofreading and correcting grammar, spelling, and punctuationPolishing sentence
 ### Timeline
 
 - **Project Start**: October 21, 2025
-- **Submission Deadline**: November 28, 2025, 11:59 PM
-- **Results Presentation**: Everyone present on November 25, 2025
+- **Submission Deadline**: December 1, 2025, 11:59 PM
+- **Results Presentation**: Everyone present on December 2, 2025
 
 These serve as reference implementations to help you get started. Your final scores will be determined by your performance.
 
