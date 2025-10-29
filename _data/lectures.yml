@@ -113,7 +113,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Direct Visual Odometry</strong>
-  slides: #"https://drive.google.com/file/d/1szM2TsiL8tNYU-MlyTv4vxiFWRitZ_NS"
+  slides: "https://github.com/PeakLab-HKUST-GZ/INTR_6000P/blob/main/assets/slides/Visual%20Navigation%205A.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -126,7 +126,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Place Recognition</strong>
-  slides: #"https://drive.google.com/file/d/1szM2TsiL8tNYU-MlyTv4vxiFWRitZ_NS"
+  slides: "https://github.com/PeakLab-HKUST-GZ/INTR_6000P/blob/main/assets/slides/Visual%20Navigation%205B.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -139,7 +139,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Filtering and State Estimation</strong>
-  slides: #"https://drive.google.com/file/d/1szM2TsiL8tNYU-MlyTv4vxiFWRitZ_NS"
+  slides: "https://github.com/PeakLab-HKUST-GZ/INTR_6000P/blob/main/assets/slides/Visual%20Navigation%206A.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
