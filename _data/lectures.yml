@@ -165,8 +165,8 @@
   lecturer: Changhao Chen
   title: >
     <strong>Scene Reprensentation</strong>
-  slides: "https://github.com/PeakLab-HKUST-GZ/INTR_6000P/blob/main/assets/slides/Visual%20Navigation%207A.pdf"
-  annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
+  slides: "https://github.com/PeakLab-HKUST-GZ/INTR_6000P/blob/main/assets/slides/Visual%20Navigation%207B.pdf"
+  annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
   readings:
@@ -178,7 +178,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Mapping</strong>
-  slides: "https://github.com/PeakLab-HKUST-GZ/INTR_6000P/blob/main/assets/slides/Visual%20Navigation%207B.pdf"
+  slides: "https://github.com/PeakLab-HKUST-GZ/INTR_6000P/blob/main/assets/slides/Visual%20Navigation%207A.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -272,7 +272,7 @@
 - date: 11/18
   lecturer: Changhao Chen
   title: >
-    <strong>Enhancing Visual SLAM with Deep Learning</strong>
+    <strong>Enhancing Visual SLAM with Deep Learning I</strong>
   slides: "https://github.com/PeakLab-HKUST-GZ/INTR_6000P/blob/main/assets/slides/Visual%20Navigation%2011A.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
@@ -282,10 +282,10 @@
     #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
   logistics:
 
-- date: 11/25
+- date: 11/18
   lecturer: Changhao Chen
   title: >
-    <strong>Embodied Navigation</strong>
+    <strong>Enhancing Visual SLAM with Deep Learning II</strong>
   slides: "https://github.com/PeakLab-HKUST-GZ/INTR_6000P/blob/main/assets/slides/Visual%20Navigation%2011B.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
@@ -298,8 +298,21 @@
 - date: 11/25
   lecturer: Changhao Chen
   title: >
-    <strong>End-to-End Self-Driving</strong>
+    <strong>Embodied Navigation</strong>
   slides: "https://github.com/PeakLab-HKUST-GZ/INTR_6000P/blob/main/assets/slides/Visual%20Navigation%2012A.pdf"
+  annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
+  video: #"https://scs.hosted.panopto.com/Panopto/
+  notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
+  readings:
+    #- Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
+    #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
+  logistics:
+
+- date: 11/25
+  lecturer: Changhao Chen
+  title: >
+    <strong>End-to-End Self-Driving</strong>
+  slides: "https://github.com/PeakLab-HKUST-GZ/INTR_6000P/blob/main/assets/slides/Visual%20Navigation%2012B.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -311,8 +324,21 @@
 - date: 12/2
   lecturer: Changhao Chen
   title: >
-    <strong>Project Presentation</strong>
-  slides: "https://github.com/PeakLab-HKUST-GZ/INTR_6000P/blob/main/assets/slides/Visual%20Navigation%2012B.pdf"
+    <strong>Project Presentation I</strong>
+  slides: #"https://github.com/PeakLab-HKUST-GZ/INTR_6000P/blob/main/assets/slides/Visual%20Navigation%2012B.pdf"
+  annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
+  video: #"https://scs.hosted.panopto.com/Panopto/
+  notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
+  readings:
+    #- Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
+    #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
+  logistics: 
+
+- date: 12/2
+  lecturer: Changhao Chen
+  title: >
+    <strong>Project Presentation II</strong>
+  slides: #"https://github.com/PeakLab-HKUST-GZ/INTR_6000P/blob/main/assets/slides/Visual%20Navigation%2012B.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
